@@ -1,7 +1,6 @@
 """
 Created on Sun May 10 13:23:19 2020
 @author: DESHMUKH
-WORD CLOUD
 """
 #pip install wordcloud
 import requests # Importing requests to extract content from a url
