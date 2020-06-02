@@ -78,7 +78,6 @@ plt.tight_layout(pad=0)
 plt.imshow(wordcloud_sp)
 #wordcloud_sp.to_file("wordCloud.png") # Saving Cloud 
 
-  
 ################################## - Sentimental Analysis Positive - ####################################
 
 # Positive dataset words for postive sentiment
